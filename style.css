@@ -1,0 +1,30 @@
+/* Adds a bit of padding to body section.*/
+body::before {
+    display: block;
+    content: '';
+    height: 70px;
+}
+
+/* Beige */
+#nav-color, #fam-pack, #clientreviews, #contact {
+    background-color: #C1AA90;
+}
+
+#travel {
+    color: #C1AA90;
+}
+
+/* Brown */
+#prices {
+    background-color: #3a3126;
+}
+
+/*  Dark Brown */
+#showcasecolor, #footer {
+    background-color: #1d1915;
+}
+
+/*  Light Brown */
+#clients {
+    background-color: #695441;
+}
